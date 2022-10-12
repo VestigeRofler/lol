@@ -1,5 +1,6 @@
 [users_list]
-1337:GoCry
+98bd295ea04114de4249ebe3cfa67ef1:YesCheatPlus
+5d14020c377b9978b0ebcf8b24daae91:0x41414141-Is-Retarded
 
 [details]
 1.9.6
